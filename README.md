@@ -1,5 +1,5 @@
 # 뉴스기사 애플리케이션
-카드뷰 형식으로 최신뉴스를 보여주는 앱
+뉴스기사를 JSON형태로 받아와 Card view 라이브러리로 보여주는 앱
 # 개발환경
 Android Studio<br>
 Card view<br>
